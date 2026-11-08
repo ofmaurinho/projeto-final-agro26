@@ -40,7 +40,6 @@ A proposta adota a paleta sugerida no enunciado: azul-petróleo para navegação
 ## Equipe
 
 - Integrantes: `Fabricio Mauro, Luiz Alves e Pablo Dantas`.
-- Divisão de responsabilidades: `[PREENCHER — definir com a equipe após aprovação]`.
 
 ## Diagnóstico do repositório de exemplo
 

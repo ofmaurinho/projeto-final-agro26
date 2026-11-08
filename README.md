@@ -2,6 +2,17 @@
 
 Aplicativo em React Native para cadastrar matérias, registrar sessões de estudo e acompanhar o tempo dedicado a cada matéria. O público-alvo são estudantes que querem manter seus registros de estudo organizados em um só lugar.
 
+## Equipe e organização
+
+A equipe responsável pelo projeto foi o grupo `Os Bacanas`, formado por:
+
+- **Luiz Alves** — contribuiu com a estruturação do fluxo de dados e com a organização do estado da aplicação, ajudando na integração entre telas, formulários e consultas do Firebase.
+- **Phelipy Penha** — ficou responsável pela parte visual e pela experiência do usuário, incluindo navegação, formulários e validação do fluxo de login, perfil e ações dentro do app.
+- **Fabricio Mauro** — atuou na base do projeto, com a configuração do ambiente React Native/Expo, integração com Firebase e manutenção da arquitetura geral do app.
+- **Pablo Dantas** — participou do desenvolvimento das funcionalidades de matérias e sessões, incluindo listagem, filtros, edição, exclusão e manutenção do painel de resumo do estudo.
+
+Todos os integrantes participaram da revisão final do projeto, da validação das telas e da preparação da apresentação do aplicativo.
+
 ## Tecnologias
 
 As versões seguem o repositório de exemplo analisado:
